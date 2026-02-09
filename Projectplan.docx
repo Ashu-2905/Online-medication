@@ -1,0 +1,44 @@
+PROJECT PLAN
+
+Application Name
+Online Medication & Prescription Tracker
+
+Problem Statement:-
+
+Many people forget to take medicines on time and find it difficult to keep their prescriptions safe. 
+Paper prescriptions can be lost, and managing multiple medicines manually is confusing. 
+This can lead to missed doses and health issues.
+
+Proposed Solution :-
+  
+This project provides a web-based application where users can store their prescriptions digitally and manage their medicines easily. 
+The system helps users track medicines and supports better medication management.
+
+Scope of Requirements :-
+
+The scope of this project includes:
+User registration and secure login
+Adding and viewing medicine details
+Uploading and storing prescriptions
+Viewing medication history
+Secure storage of user data in a database
+This project focuses on core features and is designed so that more features can be added in the future.
+
+Technical Approach:-
+
+The backend will be developed using Java Spring Boot to handle business logic and APIs.
+The frontend will be built using React to provide a user-friendly interface.
+A relational database will be used to store user, medicine, and prescription data securely.
+The application will follow a step-by-step development approach starting with backend setup.
+
+Technology Stack :-
+
+Frontend: React
+Backend: Java Spring Boot
+Database: MySQL / PostgreSQL
+Tools: Git, GitHub, IntelliJ IDEA, VS Code
+
+Conclusion:-
+
+The Online Medication & Prescription Tracker solves a real-life problem by helping users manage medicines and prescriptions digitally.
+  This project also provides practical experience in full-stack web development.
